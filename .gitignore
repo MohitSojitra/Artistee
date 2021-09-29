@@ -1,0 +1,10 @@
+# for Backend ignore files
+ArtisteeBackend/node_modules
+ArtisteeBackend/dist
+ArtisteeBackend/.env
+
+# for frontend ignore fles
+ArtisteeFrontend/node_modules
+
+# for admin pannel ignore fles
+ArtisteeAdmin/node_modules
