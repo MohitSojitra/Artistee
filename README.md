@@ -1,5 +1,10 @@
 # Artistee ( Inspired by united talent )
 
+## **Live** 
+
+ - Website : https://artistee-fronend.vercel.app/
+ - Admin Panel : https://artistee-admin.vercel.app/
+
  ## Functionality
     
 ### frontend website
